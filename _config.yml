@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Христо Константинов"
 description              : "DinoDent official website."
-url                      : "https://thefinalcutbg.github.io/dinowebsite" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://thefinalcutbg.github.io/dinodentweb" # the base hostname & protocol for your site "
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "thefinalcutbg/DinoDentWeb"
 teaser                   : "/assets/images/teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x800.png"
