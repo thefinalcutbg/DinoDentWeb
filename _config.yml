@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "mint" #"default" "air", "aqua", "contrast", "dark", 
 locale                   : "bg"
 title                    : "DinoDent"
 title_separator          : "-"
-#subtitle                 : "Бъдещето е тук!" # site tagline that appears below site title in masthead
+subtitle                 : "ЛаЛаЛа" # site tagline that appears below site title in masthead
 name                     : "Христо Константинов"
 description              : "DinoDent official website."
 url                      : "https://thefinalcutbg.github.io/dinowebsite" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
