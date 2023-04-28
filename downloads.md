@@ -16,7 +16,7 @@ layout: splash
 
 ## Версия 0.2.1
 
-<b>Инсталатор за Windows 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v0.2/DinoDentSetup.exe)</b>
+<b>Инсталатор за Windows 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v0.2.1/DinoDentSetup.exe)</b>
 
 Добавени функционалности: <br>
 - Издаване на направления
