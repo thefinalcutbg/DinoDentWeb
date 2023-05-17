@@ -20,9 +20,9 @@ layout: splash
 <b>Windows 10 64bit</b> или <b>Windows 11 64bit</b>, препоръчително обновени до най-последна версия. Поддръжката на Windows XP, Windows 7 и Windows 8 е официално прекратена от Microsoft и тези операционни системи не се поддържат от DinoDent.
 <br><br>Предвидени са версии за <b>MacOS</b> и <b>Linux</b>. Ако желаете да съдействате в разработката им, вижте в раздела ["Как да помогна?"](../contribute).
 
-## Версия 1.2.0
+## Версия 1.2.1
 
-<b>Инсталатор за Windows 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.2.0/DinoDentSetup.exe)</b>
+<b>Инсталатор за Windows 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.2.1/DinoDentSetup.exe)</b>
 
 Добавени функционалности: <br>
 - Добавена възможност за въвеждане на статуси на свръхброен зъб
