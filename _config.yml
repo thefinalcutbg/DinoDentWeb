@@ -19,7 +19,7 @@ locale                   : "bg"
 title                    : "DinoDent"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Христо Константинов"
+name                     : "д-р Христо Константинов"
 description              : "DinoDent official website."
 url                      : "https://thefinalcutbg.github.io/dinodentweb" # the base hostname & protocol for your site "
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -109,7 +109,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "hristo.konstantinov89@gmail.com"
+      url: "dinodentbg@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
