@@ -22,7 +22,7 @@ layout: splash
 
 ## Версия 1.3.2
 
-<b>Инсталатор за Windows 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.3.1/DinoDentSetup.exe)</b>
+<b>Инсталатор за Windows 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.3.2/DinoDentSetup.exe)</b>
 
 Добавени функционалности:
 - Добавен начален екран с бутони за различните функции на програмата
