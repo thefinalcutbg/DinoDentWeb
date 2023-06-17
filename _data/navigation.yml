@@ -4,8 +4,8 @@ main:
     url: /downloads/
   - title: "Галерия"
     url: /gallery/
-  #- title: "Форум"
-  #  url: /year-archive/
+  - title: "Често задавани въпроси"
+    url: /faq/
   - title: "Функционалности"
     url: /features/
   - title: "Как да помогна?"
