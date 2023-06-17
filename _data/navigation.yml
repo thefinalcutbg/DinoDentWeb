@@ -4,9 +4,9 @@ main:
     url: /downloads/
   - title: "Галерия"
     url: /gallery/
-  - title: "Често задавани въпроси"
-    url: /faq/
   - title: "Функционалности"
     url: /features/
+  - title: "Често задавани въпроси"
+    url: /faq/
   - title: "Как да помогна?"
     url: /contribute/
