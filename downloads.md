@@ -12,7 +12,9 @@ layout: splash
  # feature: *image
 #toc: true
 ---
-
+<br>
+<br>
+<br>
 <b>Изтегляне на инсталатор за Windows 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.3.4/DinoDentSetup.exe)</b>
 
 ## Версия 1.3.4
