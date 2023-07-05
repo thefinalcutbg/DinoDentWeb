@@ -15,7 +15,14 @@ layout: splash
 <br>
 <br>
 <br>
-<b>Изтегляне на инсталатор за Windows 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.3.4/DinoDentSetup.exe)</b>
+<b>Изтегляне на инсталатор за Windows 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.3.5/DinoDentSetup.exe)</b>
+
+## Версия 1.3.5
+
+Добавени функционалности:
+- Незначителни промени по интерфейса
+Оправени бъгове:
+- Услугата за извличане на актуален статус е изцяло пренаписана, за да компенсира връщането на грешен актуален статус от НЗИС
 
 ## Версия 1.3.4
 
