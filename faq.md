@@ -41,7 +41,7 @@ DinoDent е безплатен дентален софтуер с отворен
 - C:\Windows\System32\cmP11.dll
 - C:\Windows\System32\cvP11.dll
 - C:\Windows\System32\siecap11.dll
-- C:\Windows\System32\cmP1164.dl
+- C:\Windows\System32\cmP1164.dll
 
 Ако сте на доставчик, чиито драйвър се намира на друга локация, можете да го добавите от настройки. За сега програмата е тествана с електронните подписи [B-Trust](https://www.b-trust.bg/){:target="_blank"}, [InfoNotary](https://www.infonotary.com/){:target="_blank"} и [StampIT](https://www.stampit.org/){:target="_blank"}.
 
