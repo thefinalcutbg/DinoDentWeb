@@ -18,7 +18,7 @@ layout: splash
 <b>Изтегляне на инсталатор за Windows 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.4.1/DinoDentSetup.exe)</b>
 
 
-## Версия 1.4.0
+## Версия 1.4.1
 
 Добавени функционалности:
 - Прозорецът за въвеждане на ПИН за КЕП показва датата на валидност на съответния сертификат
