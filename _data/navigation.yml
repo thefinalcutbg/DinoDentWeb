@@ -8,5 +8,7 @@ main:
     url: /features/
   - title: "Често задавани въпроси"
     url: /faq/
+  - title: "Бели рецепти"
+    url: /prescription/
   - title: "Как да помогна?"
     url: /contribute/
