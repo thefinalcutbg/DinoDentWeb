@@ -20,9 +20,9 @@ layout: splash
 Във връзка със задължителното електронно изписване на бели рецепти, модулът за рецепти на DinoDent е компилиран като самостоятелна програма. Може да се използва както от лекари, така и от лекари по дентална медицина.
 Системните изисквания са <b>Windows 10/Windows 11</b> и <b>64-битов процесор</b>.
 
-<b>Изтегляне на инсталатор: [OpenPrescrSetup_Win64.exe](https://github.com/thefinalcutbg/OpenPrescription/releases/download/v0.5/OpenPrescrSetup_Win64.exe)</b>
+<b>Изтегляне на инсталатор: [OpenPrescrSetup.exe](https://github.com/thefinalcutbg/OpenPrescription/releases/download/v0.6/OpenPrescrSetup.exe)</b>
 
-<b>Линк към GitHub: [OpenPrescription](https://github.com/thefinalcutbg/OpenPrescription)</b>
+<b>Линк към GitHub: [OpenPrescription Repo](https://github.com/thefinalcutbg/OpenPrescription)</b>
 
 ## Инструкции за употреба
 
