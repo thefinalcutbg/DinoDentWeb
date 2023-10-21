@@ -42,6 +42,7 @@ DinoDent е безплатен дентален софтуер с отворен
 Когато се появи необходимост от удостоверяване с КЕП, програмата търси драйвърите за електронния Ви подпис в следните директории:
 
 - C:\Program Files\SafeNet\Authentication\SAC\x64\IDPrimePKCS1164.dll
+- C:\Windows\System32\OcsPKCS11Wrapper.dll,
 - C:\Windows\System32\idprimepkcs11.dll
 - C:\Windows\System32\bit4ipki.dll
 - C:\Windows\System32\cmP11.dll
@@ -50,6 +51,11 @@ DinoDent е безплатен дентален софтуер с отворен
 - C:\Windows\System32\cmP1164.dll
 
 Ако сте на доставчик, чиито драйвър се намира на друга локация, можете да го добавите от настройки. За сега програмата е тествана с електронните подписи [B-Trust](https://www.b-trust.bg/){:target="_blank"}, [InfoNotary](https://www.infonotary.com/){:target="_blank"} и [StampIT](https://www.stampit.org/){:target="_blank"}.
+
+## Програмата разпознава КЕП-а, но въпреки това НЗИС връща грешка "Неуспешна идентификаця".
+В случай че подписът не е с изтекла валидност, вероятно използвате КЕП издаден от StampIT и картата в четеца е модел eIDAS или eIDAS 8.1. За да използвате този подпис в програмата е необходимо допълнително да изтеглите и инсталирате AWS Identity Manager от:
+
+[https://installer.id.ee/media/win/installer/AWP-5.3.5-SR1.x64.en-US.msi](https://installer.id.ee/media/win/installer/AWP-5.3.5-SR1.x64.en-US.msi)
 
 ## Мога ли по някакъв начин да помогна за разработването на софтуера?
 Абсолютно! Дори и да нямате познания по програмиране или дизайнерски умения, ако установите грешки в програмата, моля да ги докладвате на [dinodentbg@gmail.com](mailto:dinodentbg@gmail.com). Всякакви предложения относно нови функционалности също са добре дошли.
