@@ -53,7 +53,7 @@ DinoDent е безплатен дентален софтуер с отворен
 Ако сте на доставчик, чиито драйвър се намира на друга локация, можете да го добавите от настройки. За сега програмата е тествана с електронните подписи [B-Trust](https://www.b-trust.bg/){:target="_blank"}, [InfoNotary](https://www.infonotary.com/){:target="_blank"} и [StampIT](https://www.stampit.org/){:target="_blank"}.
 
 ## Програмата разпознава КЕП-а, но въпреки това НЗИС връща грешка "Неуспешна идентификация".
-В случай че подписът не е с изтекла валидност, вероятно използвате КЕП издаден от [StampIT](https://www.stampit.org/){:target="_blank"} и картата в четеца е модел eIDAS или eIDAS 8.1. За да използвате този подпис в програмата е необходимо допълнително да изтеглите и инсталирате AWS Identity Manager от:
+В случай че подписът не е с изтекла валидност, вероятно използвате КЕП издаден от [StampIT](https://www.stampit.org/){:target="_blank"} и картата в четеца е модел <b>eIDAS</b> или <b>eIDAS 8.1</b>. За да използвате този подпис в програмата е необходимо допълнително да изтеглите и инсталирате AWS Identity Manager от:
 
 [https://installer.id.ee/media/win/installer/AWP-5.3.5-SR1.x64.en-US.msi](https://installer.id.ee/media/win/installer/AWP-5.3.5-SR1.x64.en-US.msi)
 
