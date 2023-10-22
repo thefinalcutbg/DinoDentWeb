@@ -42,7 +42,7 @@ DinoDent е безплатен дентален софтуер с отворен
 Когато се появи необходимост от удостоверяване с КЕП, програмата търси драйвърите за електронния Ви подпис в следните директории:
 
 - C:\Program Files\SafeNet\Authentication\SAC\x64\IDPrimePKCS1164.dll
-- C:\Windows\System32\OcsPKCS11Wrapper.dll,
+- C:\Windows\System32\OcsPKCS11Wrapper.dll
 - C:\Windows\System32\idprimepkcs11.dll
 - C:\Windows\System32\bit4ipki.dll
 - C:\Windows\System32\cmP11.dll
