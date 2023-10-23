@@ -39,21 +39,12 @@ DinoDent е безплатен дентален софтуер с отворен
 
 ## Програмата ми изписва, че не е намерен КЕП, а електронният ми подпис е включен в компютъра.
 Първо се уверете, че сте инсталирали драйвърите за Вашия електронен подпис. За повече информация посетете сайта на доставчика си.
-Когато се появи необходимост от удостоверяване с КЕП, програмата търси драйвърите за електронния Ви подпис в следните директории:
 
-- C:\Program Files\SafeNet\Authentication\SAC\x64\IDPrimePKCS1164.dll
-- C:\Windows\System32\OcsPKCS11Wrapper.dll
-- C:\Windows\System32\idprimepkcs11.dll
-- C:\Windows\System32\bit4ipki.dll
-- C:\Windows\System32\cmP11.dll
-- C:\Windows\System32\cvP11.dll
-- C:\Windows\System32\siecap11.dll
-- C:\Windows\System32\cmP1164.dll
+Драйвъри за <b>StampIT</b> - [тук](https://www.stampit.org/en/page/795){:target="_blank"}
+Драйвъри за <b>B-Trust</b> - [тук](https://www.b-trust.bg/client-center/signature-installation){:target="_blank"},
+Драйвъри за <b>InfoNotary</b> - [тук](https://www.infonotary.com/?p=technical-support){:target="_blank"}
 
-Ако сте на доставчик, чиито драйвър се намира на друга локация, можете да го добавите от настройки. За сега програмата е тествана с електронните подписи [B-Trust](https://www.b-trust.bg/){:target="_blank"}, [InfoNotary](https://www.infonotary.com/){:target="_blank"} и [StampIT](https://www.stampit.org/){:target="_blank"}.
-
-## Програмата разпознава КЕП-а, но въпреки това НЗИС връща грешка "Неуспешна идентификация".
-В случай че подписът не е с изтекла валидност, вероятно използвате КЕП издаден от [StampIT](https://www.stampit.org/){:target="_blank"} и картата в четеца е модел <b>eIDAS</b> или <b>eIDAS 8.1</b>. За да използвате този подпис в програмата е необходимо допълнително да изтеглите и инсталирате AWP Identity Manager от:
+В случай че използвате КЕП издаден от <b>StampIT</b> и картата в четеца е модел <b>eIDAS</b> или <b>eIDAS 8.1</b>, за да използвате този подпис в програмата е необходимо допълнително да изтеглите и инсталирате AWP Identity Manager от:
 
 [https://installer.id.ee/media/win/installer/AWP-5.3.5-SR1.x64.en-US.msi](https://installer.id.ee/media/win/installer/AWP-5.3.5-SR1.x64.en-US.msi)
 
