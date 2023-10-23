@@ -44,9 +44,7 @@ DinoDent е безплатен дентален софтуер с отворен
 Драйвъри за <b>B-Trust</b> - [тук](https://www.b-trust.bg/client-center/signature-installation){:target="_blank"},
 Драйвъри за <b>InfoNotary</b> - [тук](https://www.infonotary.com/?p=technical-support){:target="_blank"}
 
-В случай че използвате КЕП издаден от <b>StampIT</b> и картата в четеца е модел <b>eIDAS</b> или <b>eIDAS 8.1</b>, за да използвате този подпис в програмата е необходимо допълнително да изтеглите и инсталирате <b>AWP Identity Manager</b> от [тук](https://installer.id.ee/media/win/installer/AWP-5.3.5-SR1.x64.en-US.msi)
-
-След това от настройки добавете драйвър за КЕП със следния път: <b>C:\Windows\System32\OcsPKCS11Wrapper.dll</b> и го преместете на най-горна позиция.
+В случай че използвате КЕП издаден от <b>StampIT</b> и картата в четеца е модел <b>eIDAS</b> или <b>eIDAS 8.1</b>, за да използвате този подпис в програмата е необходимо допълнително да изтеглите и инсталирате <b>AWP Identity Manager</b> от [тук](https://installer.id.ee/media/win/installer/AWP-5.3.5-SR1.x64.en-US.msi). След това от настройки добавете драйвър за КЕП със следния път: <b>C:\Windows\System32\OcsPKCS11Wrapper.dll</b> и го преместете на най-горна позиция.
 
 ## Мога ли по някакъв начин да помогна за разработването на софтуера?
 Абсолютно! Дори и да нямате познания по програмиране или дизайнерски умения, ако установите грешки в програмата, моля да ги докладвате на [dinodentbg@gmail.com](mailto:dinodentbg@gmail.com). Всякакви предложения относно нови функционалности също са добре дошли.
