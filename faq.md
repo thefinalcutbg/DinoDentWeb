@@ -40,11 +40,15 @@ DinoDent е безплатен дентален софтуер с отворен
 ## Програмата ми изписва, че не е намерен КЕП, а електронният ми подпис е включен в компютъра.
 Първо се уверете, че сте инсталирали драйвърите за Вашия електронен подпис. За повече информация посетете сайта на доставчика си.
 
-Драйвъри за <b>StampIT</b> - [тук](https://www.stampit.org/en/page/795){:target="_blank"}
-Драйвъри за <b>B-Trust</b> - [тук](https://www.b-trust.bg/client-center/signature-installation){:target="_blank"},
-Драйвъри за <b>InfoNotary</b> - [тук](https://www.infonotary.com/?p=technical-support){:target="_blank"}
+<br>Драйвъри за <b>StampIT</b> - [тук](https://www.stampit.org/en/page/795){:target="_blank"}
+<br>Драйвъри за <b>B-Trust</b> - [тук](https://www.b-trust.bg/client-center/signature-installation){:target="_blank"},
+<br>Драйвъри за <b>InfoNotary</b> - [тук](https://www.infonotary.com/?p=technical-support){:target="_blank"}
 
-В случай че използвате КЕП издаден от <b>StampIT</b> и картата в четеца е модел <b>eIDAS</b> или <b>eIDAS 8.1</b>, за да използвате този подпис в програмата е необходимо допълнително да изтеглите и инсталирате <b>AWP Identity Manager</b> от [тук](https://installer.id.ee/media/win/installer/AWP-5.3.5-SR1.x64.en-US.msi). След това от настройки добавете драйвър за КЕП със следния път: <b>C:\Windows\System32\OcsPKCS11Wrapper.dll</b> и го преместете на най-горна позиция.
+
+## Програмата разпознава КЕП-а, но въпреки това НЗИС връща грешка "Неуспешна идентификация".
+В случай че подписът не е с изтекла валидност, вероятно използвате КЕП издаден от [StampIT](https://www.stampit.org/){:target="_blank"} и картата в четеца е модел <b>eIDAS</b> или <b>eIDAS 8.1</b>. За да използвате този подпис в програмата е необходимо допълнително да изтеглите и инсталирате <b>AWP Identity Manager</b> от [тук](https://installer.id.ee/media/win/installer/AWP-5.3.5-SR1.x64.en-US.msi)
+
+След това от настройки добавете драйвър за КЕП със следния път: <b>C:\Windows\System32\OcsPKCS11Wrapper.dll</b> и го преместете на най-горна позиция.
 
 ## Мога ли по някакъв начин да помогна за разработването на софтуера?
 Абсолютно! Дори и да нямате познания по програмиране или дизайнерски умения, ако установите грешки в програмата, моля да ги докладвате на [dinodentbg@gmail.com](mailto:dinodentbg@gmail.com). Всякакви предложения относно нови функционалности също са добре дошли.
