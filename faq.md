@@ -40,7 +40,7 @@ DinoDent е безплатен дентален софтуер с отворен
 ## Програмата ми изписва, че не е намерен КЕП, а електронният ми подпис е включен в компютъра.
 Първо се уверете, че сте инсталирали драйвърите за Вашия електронен подпис.
 
-<br>Драйвъри за <b>StampIT</b> - [изтегли от тук](https://www.stampit.org/bg/page/795){:target="_blank"}
+Драйвъри за <b>StampIT</b> - [изтегли от тук](https://www.stampit.org/bg/page/795){:target="_blank"}
 <br>Драйвъри за <b>B-Trust</b> - [изтегли от тук](https://www.b-trust.bg/client-center/signature-installation){:target="_blank"},
 <br>Драйвъри за <b>InfoNotary</b> - [изтегли от тук](https://www.infonotary.com/?p=technical-support){:target="_blank"}
 
