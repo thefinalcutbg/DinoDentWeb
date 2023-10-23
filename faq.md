@@ -44,6 +44,8 @@ DinoDent е безплатен дентален софтуер с отворен
 <br>Драйвъри за <b>B-Trust</b> - [изтегли от тук](https://www.b-trust.bg/client-center/signature-installation){:target="_blank"},
 <br>Драйвъри за <b>InfoNotary</b> - [изтегли от тук](https://www.infonotary.com/?p=technical-support){:target="_blank"}
 
+Ако програмата все още не може да се свърже с Вашия КЕП, моля пишете на [dinodentbg@gmail.com](mailto:dinodentbg@gmail.com)
+
 ## Програмата разпознава КЕП-а, но въпреки това НЗИС връща грешка "Неуспешна идентификация".
 В случай че подписът не е с изтекла валидност, вероятно използвате КЕП издаден от [StampIT](https://www.stampit.org/){:target="_blank"} и картата в четеца е модел <b>eIDAS</b> или <b>eIDAS 8.1</b>. За да използвате този подпис в програмата е необходимо допълнително да изтеглите и инсталирате <b>AWP Identity Manager</b> от [тук](https://installer.id.ee/media/win/installer/AWP-5.3.5-SR1.x64.en-US.msi)
 
