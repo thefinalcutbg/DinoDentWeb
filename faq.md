@@ -39,11 +39,9 @@ DinoDent е безплатен дентален софтуер с отворен
 
 ## Програмата ми изписва, че не е намерен КЕП, а електронният ми подпис е включен в компютъра.
 Първо се уверете, че сте инсталирали драйвърите за Вашия електронен подпис.
-
-<br>Драйвъри за <b>StampIT</b> - [Изтегли оттук](https://www.stampit.org/en/page/795){:target="_blank"}
-<br>Драйвъри за <b>B-Trust</b> - [Изтегли оттук](https://www.b-trust.bg/client-center/signature-installation){:target="_blank"},
-<br>Драйвъри за <b>InfoNotary</b> - [Изтегли оттук](https://www.infonotary.com/?p=technical-support){:target="_blank"}
-
+<br>Драйвъри за <b>StampIT</b> - [изтегли от тук](https://www.stampit.org/en/page/795){:target="_blank"}
+<br>Драйвъри за <b>B-Trust</b> - [изтегли от тук](https://www.b-trust.bg/client-center/signature-installation){:target="_blank"},
+<br>Драйвъри за <b>InfoNotary</b> - [изтегли от тук](https://www.infonotary.com/?p=technical-support){:target="_blank"}
 
 ## Програмата разпознава КЕП-а, но въпреки това НЗИС връща грешка "Неуспешна идентификация".
 В случай че подписът не е с изтекла валидност, вероятно използвате КЕП издаден от [StampIT](https://www.stampit.org/){:target="_blank"} и картата в четеца е модел <b>eIDAS</b> или <b>eIDAS 8.1</b>. За да използвате този подпис в програмата е необходимо допълнително да изтеглите и инсталирате <b>AWP Identity Manager</b> от [тук](https://installer.id.ee/media/win/installer/AWP-5.3.5-SR1.x64.en-US.msi)
