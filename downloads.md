@@ -17,7 +17,7 @@ layout: splash
 <br>
 <b>Изтегляне на инсталатор за Windows 10/11 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.8.1/DinoDentSetup.exe)</b>
 
-## Версия 1.8.1 - HOTFIX
+## Версия 1.8.1
 
 - Оправен е бъгът от версия 1.8.0, при който статус C(кариес) не фигурира в принтирания амбулаторен лист и месечния XML отчет към НЗОК
 
