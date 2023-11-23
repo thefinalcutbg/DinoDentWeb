@@ -15,7 +15,12 @@ layout: splash
 <br>
 <br>
 <br>
-<b>Изтегляне на инсталатор за Windows 10/11 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.8.2/DinoDentSetup.exe)</b>
+<b>Изтегляне на инсталатор за Windows 10/11 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.8.3/DinoDentSetup.exe)</b>
+
+## Версия 1.8.3
+
+- При импортиране на пациенти от ПИС населеното място се попълва автоматично на базата подадените РЗОК № и здравен район.
+- Оправен е бъгът при който при импортиране на амбулаторни листове от ПИС се зареждат само листовете от последните 2 години.
 
 ## Версия 1.8.2
 
