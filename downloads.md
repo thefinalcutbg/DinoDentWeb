@@ -15,8 +15,11 @@ layout: splash
 <br>
 <br>
 <br>
-<b>Изтегляне на инсталатор за Windows 10/11 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.10.0/DinoDentSetup.exe)</b>
+<b>Изтегляне на инсталатор за Windows 10/11 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.10.1/DinoDentSetup.exe)</b>
 
+## Версия 1.10.1 - HOTFIX
+
+Оправен е бъгът от версия 1.10.1, при който не се визуализира формуляра за издаване на медицински бележки
 
 ## Версия 1.10.0
 
