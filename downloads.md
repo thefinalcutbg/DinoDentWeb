@@ -15,7 +15,15 @@ layout: splash
 <br>
 <br>
 <br>
-<b>Изтегляне на инсталатор за Windows 10/11 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.10.1/DinoDentSetup.exe)</b>
+<b>Изтегляне на инсталатор за Windows 10/11 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.0/DinoDentSetup.exe)</b>
+
+## Версия 1.11.0
+
+- Обновени цени на манипулациите по НЗОК съгласно НРД Анекс 20.02.2024
+- Обновен изглед на Настройки
+- Добавено поле ИАМН на зъботехническа лаборатория в настройките на договора с НЗОК и в печата на амбулаторния лист
+- Добавени полета - име на банка, IBAN и BIC(SWIFT) към печата на фактурата (въвеждат се от Настройки->Фирмени данни)
+- При първо стартиране на програмата се генерират автоматично практика и лекар с примерни данни
 
 ## Версия 1.10.1 - HOTFIX
 
