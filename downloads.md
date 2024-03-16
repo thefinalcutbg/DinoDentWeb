@@ -19,7 +19,7 @@ layout: splash
 <br><br>
 <b>Изтегляне за macOS x86/ARM64: [dinodent-macos.dmg](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.2/dinodent-macos.dmg)</b>
 
-# Версия 1.11.2
+## Версия 1.11.2
 
 - Оправен е крашът при въвеждане на нов пациент (докладван от <b>д-р Веселин Георгиев</b>)
 
