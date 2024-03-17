@@ -17,7 +17,11 @@ layout: splash
 <br>
 <b>Изтегляне за Windows 10/11 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.2/DinoDentSetup.exe)</b>
 <br><br>
-<b>Изтегляне за macOS x86/ARM64: [dinodent-macos.dmg](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.2/dinodent-macos.dmg)</b>
+<b>Изтегляне за macOS x86/ARM64: [dinodent-macos.dmg](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.3/dinodent-macos.dmg)</b>
+
+## Версия 1.11.3 (само за macOS)
+
+- Оправен е проблемът при който програмата няма правомощия да зареди драйвърите за КЕП
 
 ## Версия 1.11.2
 
