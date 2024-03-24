@@ -15,9 +15,13 @@ layout: splash
 <br>
 <br>
 <br>
-<b>Изтегляне за Windows 10/11 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.2/DinoDentSetup.exe)</b>
+<b>Изтегляне за Windows 10/11 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.4/DinoDentSetup.exe)</b>
 <br><br>
-<b>Изтегляне за macOS x86/ARM64: [dinodent-macos.dmg](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.3/dinodent-macos.dmg)</b>
+<b>Изтегляне за macOS x86/ARM64: [dinodent-macos.dmg](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.4/dinodent-macos.dmg)</b>
+
+## Версия 1.11.4
+
+- Добавен чат канал за поддръжка и докладване на проблеми
 
 ## Версия 1.11.3 (само за macOS)
 
