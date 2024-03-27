@@ -13,6 +13,13 @@ layout: splash
 #toc: true
 ---
 <br>
+<figure class="half">
+[![Изтегляне за Windows 10/11 64bit](assets/win.png)](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.4/DinoDentSetup.exe)
+
+[![Изтегляне за Windows 10/11 64bit](assets/mac.png)](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.4/dinodent-macos.dmg)
+</figure>
+
+
 <b>Изтегляне за Windows 10/11 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.4/DinoDentSetup.exe)</b>
 <br><br>
 <b>Изтегляне за macOS x86/ARM64: [dinodent-macos.dmg](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.4/dinodent-macos.dmg)</b>
