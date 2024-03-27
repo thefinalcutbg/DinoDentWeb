@@ -19,5 +19,7 @@ layout: splash
 <br><br>
 <b>Изтегляне за macOS x86/ARM64: [dinodent-macos.dmg](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.4/dinodent-macos.dmg)</b>
 
-## Версия 1.11.4 (25.03.2024)
+## Най-нова версия: 1.11.4
 - Добавен чат канал за поддръжка и докладване на проблеми
+
+[Виж пълна история на версиите](https://www.dinodent.com/changelog/)
