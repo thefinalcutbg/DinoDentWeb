@@ -20,7 +20,7 @@ layout: splash
 
 .column {
   float: left;
-  width: 20%;
+  width: 25%;
   padding: 20px;
   text-align: center;
 }
@@ -51,4 +51,4 @@ layout: splash
 ## Най-нова версия: 1.11.4 (25.03.24)
 - Добавен чат канал за поддръжка и докладване на проблеми
 
-[виж пълна история на версиите](/changelog/)
+[история на версиите](/changelog/)
