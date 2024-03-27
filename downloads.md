@@ -12,11 +12,43 @@ layout: splash
  # feature: *image
 #toc: true
 ---
-<br>
-<b>Изтегляне за Windows 10/11 64bit: [DinoDentSetup.exe](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.4/DinoDentSetup.exe)</b>
-<br><br>
-<b>Изтегляне за macOS x86/ARM64: [dinodent-macos.dmg](https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.4/dinodent-macos.dmg)</b>
 
-## Най-нова версия: 1.11.4 ([виж пълна история на версиите](/changelog/))
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 20%;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  float: center;
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+<br>
+<b>Изберете операционна система:</b>
+
+<div class="row">
+
+  <div class="column">
+     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.4/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
+  </div>
+  <div class="column">
+    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.4/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
+  </div>
+
+</div>
+
+## Най-нова версия: 1.11.4 (25.03.24)
 - Добавен чат канал за поддръжка и докладване на проблеми
 
+[виж пълна история на версиите](/changelog/)
