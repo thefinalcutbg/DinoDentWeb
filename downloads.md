@@ -66,6 +66,6 @@ layout: splash
 
 ![image-center](/assets/images/wininstr1.png){: .align-center}<br>
 
-- При стартиране на програмата за първи път e възможно да получите съобщение от <b>Windows SmartScreen</b>:
+- При стартиране на програмата за първи път e възможно да получите съобщение от <b>Defender SmartScreen</b>:
 
 ![image-center](/assets/images/wininstr2.png){: .align-center}<br>
