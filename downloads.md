@@ -39,18 +39,23 @@ layout: splash
 <div class="row">
 
   <div class="column">
-     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.4/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
+     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.12.0/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
   </div>
   <div class="column">
-    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.11.4/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
+    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.12.0/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
   </div>
 
 </div>
 
 - [Инструкции за инсталация под Windows](#инструкции-за-инсталация-под-windows)
 
-## Най-последна стабилна версия: 1.11.4 (25.03.2024)
-- Добавен чат канал за поддръжка и докладване на проблеми
+## Най-последна стабилна версия: 1.12.0 (05.04.2024)
+- Автоматично изпращане на новодобавени медицински бележки и направления към НЗИС
+- Автоматично генериране на ДДС номер от ЕИК (по предложение на <b>д-р Антон Тумбалов</b>)
+- Добавена отметка за регистрация по ДДС на получателя на финансов документ (по предложение на <b>д-р Антон Тумбалов</b>)
+- ДДС номерът вече се принтира във фактурата
+- Опционални известия за нови тестови актуализации (изключени по подразбиране)
+- Списък на активните потребители в чат канала с опция за Инкогнито режим
 
 [история на версиите](/changelog/)
 
