@@ -39,23 +39,20 @@ layout: splash
 <div class="row">
 
   <div class="column">
-     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.13.0/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
+     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.13.1/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
   </div>
   <div class="column">
-    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.13.0/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
+    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.13.1/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
   </div>
 
 </div>
 
 - [Инструкции за инсталация под Windows](#инструкции-за-инсталация-под-windows)
 
-## Най-последна стабилна версия: 1.13.0 (13.04.2024)
-- Възможност за принтиране на електронна рецепта (по идея на <b>д-р Божидар Сойтариев</b>)
-- Обновен е алгоритъмът за проверка на РЗИ номерa на практиката съгласно новата номерация от 02.2024 (благодарности на <b>д-р Виктория Будаковa</b>)
-- Оправен е бъгът при който НРН номерът на направлението не се запазва в базата данни
-- Оправен е бъгът при който последната цифра от НРН номера на направлението не се принтира в бланка МДД4
-- Добавена функционалност за SQL заявки към базата данни в Настройки
-
+## Най-последна стабилна версия: 1.13.1 (23.04.2024)
+- Оправен е принтираният формуляр на фактурата, където вместо Издател отново пише Получател (докладван на <b>д-р Полина Колева</b>)
+- При корекция на ЕГН на нов пациент, останалите полета вече не се зануляват (по предложение на <b>д-р Божидар Сойтариев</b>)
+- Добавена функционалност за логове в общия чат
 [история на версиите](/changelog/)
 
 ## Инструкции за инсталация под Windows
