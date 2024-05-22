@@ -39,20 +39,20 @@ layout: splash
 <div class="row">
 
   <div class="column">
-     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.13.1/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
+     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.14.0/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
   </div>
   <div class="column">
-    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.13.1/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
+    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.14.0/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
   </div>
 
 </div>
 
 - [Инструкции за инсталация под Windows](#инструкции-за-инсталация-под-windows)
 
-## Най-последна стабилна версия: 1.13.1 (23.04.2024)
-- Оправен е принтираният формуляр на фактурата, където вместо Издател отново пише Получател (докладван на <b>д-р Полина Колева</b>)
-- При корекция на ЕГН на нов пациен, останалите полета вече не се зануляват (по предложение на <b>д-р Божидар Сойтариев</b>)
-- Добавена функционалност за логове в общия чат
+## Най-последна стабилна версия: 1.14.0 (22.05.2024)
+- Обновена е номенклатурата на зъбния статус в съответствие с тази в НЗИС
+- Възможност за автоматично извличане на номер на ЗОК при въвеждане на нов пациент
+- Възможност за принтиране на празни амбулаторни листове и бланки (по предложение на <b>д-р Марин Томовски</b>)"
 
 [история на версиите](/changelog/)
 
