@@ -39,20 +39,21 @@ layout: splash
 <div class="row">
 
   <div class="column">
-     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.14.0/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
+     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.14.1/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
   </div>
   <div class="column">
-    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.14.0/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
+    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.14.1/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
   </div>
 
 </div>
 
 - [Инструкции за инсталация под Windows](#инструкции-за-инсталация-под-windows)
 
-## Най-последна стабилна версия: 1.14.0 (22.05.2024)
-- Обновена е номенклатурата на зъбния статус в съответствие с тази в НЗИС
-- Възможност за автоматично извличане на номер на ЗОК при въвеждане на нов пациент
-- Възможност за принтиране на празни амбулаторни листове и бланки (по предложение на <b>д-р Марин Томовски</b>)
+## Най-последна стабилна версия: 1.14.1 (05.06.2024)
+- Добавена e възможност за ръчно импортиране на амбулаторни отчети от XML файлове (по предложение на <b>д-р Андрей Деспотов</b>)
+- Отчетите се импортират на базата на техния статус в ПИС, a не на наличието или отсъствието на грешки (благодарности на <b>д-р Любен Велчев</b>)
+- Добавянето процедура с код 508 върху временен зъб, отбелязан в статуса като интактен, вече не изкарва предупреждение за грешка (докладвано от <b>д-р Андрей Деспотов</b>)
+- РЗОК номерът при амбулаторни отчети и финансови документи към НЗОК вече се генерира коректно при новорегистрираните практики започващи с номера над 28
 
 [история на версиите](/changelog/)
 
