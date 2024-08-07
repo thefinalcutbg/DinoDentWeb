@@ -39,21 +39,21 @@ layout: splash
 <div class="row">
 
   <div class="column">
-     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.15.0/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
+     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.15.1/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
   </div>
   <div class="column">
-    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.15.0/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
+    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.15.1/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
   </div>
 
 </div>
 
 - [Инструкции за инсталация под Windows](#инструкции-за-инсталация-под-windows)
 
-## Най-последна стабилна версия: 1.15.0 (06.08.2024)
+## Най-последна стабилна версия: 1.15.1 (07.08.2024)
 - Функционалност за генериране на списък с пациенти, които не са използвали пакета си по НЗОК за текущата година
 - Добавени бележки в свободен текст за всеки пациент
 - Добавен XAdES-BASELINE_B стандарт за XML подписване съгласно регулациите на ЕС за електронна идентификация (eIDAS)
-- Добавени процедури с код 834 и 835 по НЗОК (изработка на медицинско изделие - горна и долна тотална протеза)
+- Добавени дейности с код 834 и 835 по НЗОК (изработка на медицинско изделие - горна и долна тотална протеза) с възможност за отчитане към НЗИС
 - Обновен е форматът на месечния отчет спрямо новите спецификации на НЗОК
 - Обновени са бланките за принтиране на амбулаторен лист, направление за рентгенография и декларация по чл.86 ал.5
 
