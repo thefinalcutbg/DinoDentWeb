@@ -50,7 +50,7 @@ DinoDent е безплатен дентален софтуер с отворен
 - Драйвъри за <b>StampIT</b> - [изтегли от тук](https://www.stampit.org/bg/page/795){:target="_blank"}
 - Драйвъри за <b>B-Trust</b> - [изтегли от тук](https://www.b-trust.bg/client-center/signature-installation){:target="_blank"}
 - Драйвъри за <b>InfoNotary</b> - [изтегли от тук](https://www.infonotary.com/?p=technical-support){:target="_blank"}
-
+Ако електронният подпис все още не работи или програмата се загася:
 - За карти модел <b>eIDAS 8.1</b> инсталирайте допълнително <b>AWP Identity Manager</b> от [тук](https://installer.id.ee/media/win/installer/AWP-5.3.5-SR1.x64.en-US.msi)
 - За карти модел <b>IDPrime940B</b> инсталирайте допълнително <b>OpenSC</b> от [тук](https://github.com/OpenSC/OpenSC/releases/download/0.23.0/OpenSC-0.23.0_win64.msi)
 
