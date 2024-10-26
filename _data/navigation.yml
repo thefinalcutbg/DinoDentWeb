@@ -10,5 +10,7 @@ main:
     url: /faq/
   - title: "Бяла рецепта"
     url: /prescription/
+  - title: "Политика за поверителност"
+    url: /privacy_bg/
   - title: "Как да помогна?"
     url: /contribute/
