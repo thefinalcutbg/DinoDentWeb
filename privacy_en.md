@@ -60,4 +60,4 @@ If you have questions about this policy or your data, please contact us at [dino
 
 Effective Date: 26.10.2024
 
-By using DinoDent, you agree to this Privacy Policy and to the processing of your data as described. Thank you for trusting DinoDent with your practice management needs.
+By using DinoDent, you agree to this Privacy Policy and to the processing of your data as described. Thank you for choosing DinoDent for your practice management needs.
