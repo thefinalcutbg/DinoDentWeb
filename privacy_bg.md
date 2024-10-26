@@ -1,6 +1,6 @@
 ---
 permalink: /privacy_bg/
-title: "Политика за повелителност"
+title: "Политика за поверителност"
 layout: splash
 ---
 <br>
