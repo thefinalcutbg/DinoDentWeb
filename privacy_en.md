@@ -48,7 +48,7 @@ In accordance with GDPR, you have the following rights regarding your data:
 - Right to Data Portability: You can receive a copy of your data in a structured format.
 - Right to Object: You can object to the processing of your data.
 
-To exercise any of these rights, please contact DinoDent support at [support email/contact number].
+To exercise any of these rights, please contact DinoDent support at [dinodentbg@gmail.com](mailto:dinodentbg@gmail.com)
 
 ## 6. Changes to this Privacy Policy
 
