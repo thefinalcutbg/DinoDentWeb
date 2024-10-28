@@ -19,7 +19,7 @@ When you log into your user profile, DinoDent automatically collects the followi
 - Current version of the software
 - Current operating system
 - Total number of patients in the database
-- Total number of dental records, periodontal measurements and prescriptions issued by the current user
+- Total number of dental records, periodontal measurements, prescriptions and financial documents issued by the current user
 - Registered location of the dental practice
 - Whether the current user is an administrator of the practice
 - Whether the current user has contract with the National Health Insurance Fund (NHIF)
