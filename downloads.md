@@ -42,14 +42,14 @@ layout: splash
      <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.16.0/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
   </div>
   <div class="column">
-    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.15.2/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
+    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/v1.16.0/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
   </div>
 
 </div>
 
 - [Инструкции за инсталация под Windows](#инструкции-за-инсталация-под-windows)
 
-## Най-последна стабилна версия: 1.16.2 (27.10.2024)
+## Най-последна стабилна версия: 1.16.0 (27.10.2024)
 - Добавен график за посещенията (необходим е профил в Google и достъп до интернет)
 - Добавени опции ПОС терминал и комбинирано плащане към реквизит Начин на плащане във формата за фактурата (по предложение на <b>Златина Бегова</b>)
 - Добавена възможност за търсене от списък с всички пациенти при създаване на нов медицински документ (функционалността се активира от Настройки)
