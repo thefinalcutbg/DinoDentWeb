@@ -6,11 +6,11 @@ main:
     url: /faq/
   - title: "Функционалности"
     url: /features/
-  - title: "Подкрепи DinoDent"
-    url: /donate/
   - title: "Галерия"
     url: /gallery/
   - title: "Бяла рецепта"
     url: /prescription/
   - title: "Политика за поверителност"
     url: /privacy_bg/
+  - title: "Подкрепи DinoDent"
+    url: /donate/
