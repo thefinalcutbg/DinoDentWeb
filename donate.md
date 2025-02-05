@@ -1,5 +1,5 @@
 ---
-permalink: /contribute/
+permalink: /donate/
 title: "Подкрепи DinoDent"
 layout: splash
 ---
