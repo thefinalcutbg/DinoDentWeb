@@ -41,8 +41,8 @@ layout: splash
   </div>
 </div>
 
-- [<b>PayPal</b>](https://www.paypal.com/donate/?hosted_button_id=J7SDR7Y7BLUKL): Предлага възможност за месечни, годишни или еднократни дарения.
-- [<b>Patreon</b>](https://www.patreon.com/user?u=20719035): Предлага възможност за месечни дарения.
-- [<b>Revolut</b>](https://revolut.me/thefinalcutbg): Само за еднократни дарения.
+- [<b>PayPal</b>](https://www.paypal.com/donate/?hosted_button_id=J7SDR7Y7BLUKL) - предлага възможност за месечни, годишни или еднократни дарения.
+- [<b>Patreon</b>](https://www.patreon.com/user?u=20719035) - само за месечни дарения.
+- [<b>Revolut</b>](https://revolut.me/thefinalcutbg) - само за еднократни дарения.
 
 <b>Даренията са изцяло доброволни и дарителите не получават специални привилегии пред другите потребители!</b>
