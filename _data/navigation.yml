@@ -2,15 +2,15 @@
 main:
   - title: "Изтегляне"
     url: /downloads/
-  - title: "Галерия"
-    url: /gallery/
-  - title: "Функционалности"
-    url: /features/
   - title: "Често задавани въпроси"
     url: /faq/
+  - title: "Подкрепи DinoDent"
+    url: /donate/
+  - title: "Функционалности"
+    url: /features/
+  - title: "Галерия"
+    url: /gallery/
   - title: "Бяла рецепта"
     url: /prescription/
   - title: "Политика за поверителност"
     url: /privacy_bg/
-  - title: "Как да помогна?"
-    url: /contribute/
