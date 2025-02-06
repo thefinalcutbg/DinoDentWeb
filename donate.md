@@ -12,7 +12,7 @@ layout: splash
 
 .column {
   float: left;
-  width: 25%;
+  width: 33%;
   padding: 20px;
   text-align: center;
 }
@@ -26,7 +26,7 @@ layout: splash
 }
 </style>
 
-# Подкрепи DinoDent:
+# Подкрепи DinoDent
 
 <div class="row">
 
