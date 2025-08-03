@@ -39,7 +39,7 @@ layout: splash
 <div class="row">
 
   <div class="column">
-     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/2.6.0/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
+     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/2.6.1/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
   </div>
   <div class="column">
     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/2.6.0/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
@@ -49,8 +49,8 @@ layout: splash
 
 - [Инструкции за инсталация под Windows](#инструкции-за-инсталация-под-windows)
 
-## Най-последна стабилна версия: 2.6.0 (30.07.2025)
-
+## Най-последна стабилна версия: 2.6.1 (03.08.2025)
+- HOTFIX: Оправен е бъгът при който понякога при първия изпратен към НЗИС амбулаторен лист не се включва подписа на пациента (докладван от <b>Борислав Первазов</b>)
 - Добавена възможност за изпращане на генерирания с пен таблет подпис на пациента към НЗИС
 - В пациентското досие се визуализират разликите между параметрите на текущото спрямо предходното пародонтално измерване (по идея на <b>д-р Иван Желязков</b>)
 - Коригиран е форматът на месечния отчет към НЗОК при подаване на чуждестранни граждани с идентификатор от тип 4 (благодарение на <b>д-р Боян Ненчев</b>)
