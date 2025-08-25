@@ -23,15 +23,15 @@
   width: 200
   height: 56
 
-- name: "SmileCare"
-  url: "https://smilecare.bg/"
-  logo: "/assets/images/user-smilecare.png"
-  width: 200
-  height: 56
-
 - name: "Smilecraft Dental Center"
   url: "https://smilecraft.bg/"
   logo: "/assets/images/user-smilecraft.png"
+  width: 200
+  height: 56
+
+- name: "SmileCare"
+  url: "https://smilecare.bg/"
+  logo: "/assets/images/user-smilecare.png"
   width: 200
   height: 56
 
