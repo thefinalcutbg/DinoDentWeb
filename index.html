@@ -15,7 +15,7 @@ feature_row:
   - image_path: /assets/images/nhifBanner.png
     alt: ""
     title: Интеграция с ПИС
-    excerpt: "• Подаване на амбулаторни отчети<br>• Подаване на финансови документи<br>• Проверка на здравноосигурителни права<br>• Проверка на номер на ЗОК<br>• Справки за вече отчетени манипулации<br>• Справки за диагнози в рецептурна книжка"
+    excerpt: "• Подаване на амбулаторни отчети<br>• Подаване на финансови документи<br>• Проверка на здравноосигурителен статус<br>• Проверка на номер на ЗОК<br>• Справки за вече отчетени манипулации<br>• Справки в рецептурната книжка"
     url: "/features/#-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%81-%D0%BF%D0%B8%D1%81"
     btn_class: "btn--primary"
     btn_label: "Научи повече"
@@ -29,10 +29,51 @@ feature_row:
   - image_path: /assets/images/logoBanner.png
     alt: ""
     title: Други функции
-    excerpt: "• Бързо и интуитивно въвеждане на дентален статус<br>• Пародонтален статус<br>• Пълна дентална история на пациента <br>• Генериране на статистики за извършени манипулации<br>"
+    excerpt: "• Бързо и интуитивно въвеждане на дентален статус<br>• Интеграция с Google Calendar<br>• Пародонтален статус<br>• Пълна дентална история на пациента <br>• Генериране на статистики за извършени манипулации<br>"
     url: "/features/#-%D0%B4%D1%80%D1%83%D0%B3%D0%B8-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%BE%D1%81%D1%82%D0%B8"
     btn_class: "btn--primary"
     btn_label: "Научи повече"
 ---
+
+<section id="trusted-by" class="trusted-by" aria-labelledby="trusted-by-title">
+  <div class="wrap">
+    <h1>Кой използва DinoDent?</h1>
+    <ul class="logo-grid">
+      {% for c in site.data.clients %}
+      <li>
+        <a
+          href="{{ c.url }}"
+          target="_blank"
+          rel="noopener"
+          aria-label="{{ c.name }}"
+        >
+          <img
+            src="{{ c.logo | relative_url }}"
+            alt="Лого на {{ c.name }}"
+            loading="lazy"
+            decoding="async"
+            {%
+            if
+            c.width
+            %}width="{{ c.width }}"
+            {%
+            endif
+            %}
+            {%
+            if
+            c.height
+            %}height="{{ c.height }}"
+            {%
+            endif
+            %}
+          />
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    <h1></h1>
+    <h1>Всички необходими функционалности</h1>
+  </div>
+</section>
 
 {% include feature_row %}

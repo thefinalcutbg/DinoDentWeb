@@ -1,0 +1,180 @@
+# _data/clients.yml
+- name: "Факултет по Дентална Медицина – София"
+  url: "https://www.fdm.mu-sofia.bg/bg/"
+  logo: "/assets/images/user-fdm.png"
+  width: 200
+  height: 56
+
+- name: "iSmile"
+  url: "https://ismile.bg/"
+  logo: "/assets/images/user-ismile.jpg"
+  width: 200
+  height: 56
+
+- name: "Reflect Dental Studio"
+  url: "https://www.facebook.com/reflectdentalstudio/"
+  logo: "/assets/images/user-reflect.webp"
+  width: 200
+  height: 56
+
+- name: "Deckoff Dental"
+  url: "https://www.deckoff-dental.com/"
+  logo: "/assets/images/user-deckoff.png"
+  width: 200
+  height: 56
+
+- name: "Smilecraft Dental Center"
+  url: "https://smilecraft.bg/"
+  logo: "/assets/images/user-smilecraft.png"
+  width: 200
+  height: 56
+
+- name: "Стоматологично студио д-р Микински"
+  url: "https://mikinski-dent.com/"
+  logo: "/assets/images/user-mikinski.png"
+  width: 200
+  height: 56
+
+- name: "Dental Studio ND"
+  url: "https://dental-studio.biz/"
+  logo: "/assets/images/user-ND.jpg"
+  width: 200
+  height: 56
+
+- name: "TE Dental Clinic"
+  url: "https://www.instagram.com/tedentalclinic.plovdiv"
+  logo: "/assets/images/user-tedentalclinic.jpg"
+  width: 200
+  height: 56
+
+- name: "Es Dent"
+  url: "https://www.instagram.com/esdent_kk/?hl=bg"
+  logo: "/assets/images/user-esdent.jpeg"
+  width: 200
+  height: 56
+
+- name: "Krastev Dent"
+  url: "https://www.facebook.com/krastevdent"
+  logo: "/assets/images/user-krastevdent.jpg"
+  width: 200
+  height: 56
+
+- name: "MD Dent"
+  url: "https://www.facebook.com/dentalstudiomddent/"
+  logo: "/assets/images/user-mddent.png"
+  width: 200
+  height: 56
+
+- name: "SmileCare"
+  url: "https://smilecare.bg/"
+  logo: "/assets/images/user-smilecare.png"
+  width: 200
+  height: 56
+
+- name: "Arrisio Dental Center"
+  url: "https://arrisio-dental.com/"
+  logo: "/assets/images/user-arrisio.webp"
+  width: 200
+  height: 56
+
+- name: "RubyDent"
+  url: "https://dsrubident.com/"
+  logo: "/assets/images/user-rubydent.avif"
+  width: 200
+  height: 56
+
+- name: "White Dental Clinic"
+  url: "http://whitepoint.bg/"
+  logo: "/assets/images/user-white.avif"
+  width: 200
+  height: 56
+
+- name: "OrthoGyn"
+  url: "https://orthogyn.com/"
+  logo: "/assets/images/user-orthogyn.png"
+  width: 200
+  height: 56
+
+- name: "Valor"
+  url: "https://www.valortho.com/"
+  logo: "/assets/images/user-valor.png"
+  width: 200
+  height: 56
+
+- name: "MGD Dental Clinic"
+  url: "https://www.mgd-dental.com/"
+  logo: "/assets/images/user-mgd.jpeg"
+  width: 200
+  height: 56
+
+- name: "SiDental"
+  url: "https://www.facebook.com/SiDentalPractice/"
+  logo: "/assets/images/user-sidental.png"
+  width: 200
+  height: 56
+
+- name: "Borbelov Dental Solutions"
+  url: "https://borbelov.com/"
+  logo: "/assets/images/user-borbelov.png"
+  width: 200
+  height: 56
+
+- name: "Chitalova"
+  url: "https://doctor-chitalova.com/"
+  logo: "/assets/images/user-chitalova.png"
+  width: 200
+  height: 56
+
+- name: "МДЦ Хемадент"
+  url: "https://hemadent.com/"
+  logo: "/assets/images/user-hemadent.png"
+  width: 200
+  height: 56
+
+- name: "Familia Dent"
+  url: "https://www.familiadent.com/"
+  logo: "/assets/images/user-familiadent.png"
+  width: 200
+  height: 56
+
+- name: "д-р Милка Сербезова"
+  url: "https://www.drserbezova.com/"
+  logo: "/assets/images/user-serbezova.png"
+  width: 200
+  height: 56
+
+- name: "Prism'a Dentist Studio"
+  url: "https://www.instagram.com/prism_a2023"
+  logo: "/assets/images/user-prisma.jpg"
+  width: 200
+  height: 56
+
+- name: "Ribagin Dent"
+  url: "https://www.facebook.com/profile.php?id=100057386772687"
+  logo: "/assets/images/user-ribagin.png"
+  width: 200
+  height: 56
+
+- name: "Bonev Dental Clinic"
+  url: "https://www.facebook.com/BonevDentalClinic/"
+  logo: "/assets/images/user-bonev.jpg"
+  width: 200
+  height: 56
+
+- name: "La Estela Clinic"
+  url: "https://laestelaclinic.com/"
+  logo: "/assets/images/user-estela.png"
+  width: 200
+  height: 56
+
+- name: "Sredkow Dental Clinic"
+  url: "https://www.instagram.com/sredkowclinic"
+  logo: "/assets/images/user-sredkow.png"
+  width: 200
+  height: 56
+
+- name: "Meneers Dental"
+  url: "https://www.dinodent.bg"
+  logo: "/assets/images/user-mineers.png"
+  width: 200
+  height: 56
