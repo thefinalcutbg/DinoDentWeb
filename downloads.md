@@ -39,18 +39,19 @@ layout: splash
 <div class="row">
 
   <div class="column">
-     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/2.7.0/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
+     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/2.7.1/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
   </div>
   <div class="column">
-    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/2.7.0/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
+    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/2.7.1/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
   </div>
 
 </div>
 
 - [Инструкции за инсталация под Windows](#инструкции-за-инсталация-под-windows)
 
-## Най-последна стабилна версия: 2.7.0 (12.11.2025)
+## Най-последна стабилна версия: 2.7.1 (17.11.2025)
 
+- HOTFIX - оправен е бъгът от версия 2.7.0, при който при отчитане на зъб със статус Периодонтит, НЗИС връща грешка за невалиден condition.code (докладван от <b>д-р Маня Пенчева</b> и <b>д-р Цветелина Илиева</b>)
 - Добавена е проверка за извършени дейности по НЗОК на зъби, които са били подадени като липсващи в предишен А.Л. съдържащ дейност с код 101, 102 или 103
 - Възможност за подписване с пен таблет от настойник при пълнолетни пациенти (активира се с десен клик на мишката върху бутона за изпращане към НЗИС)
 - Двоен клик върху зъб от зъбния статус в пациентското досие отваря списък с всички дейности засягащи този зъб

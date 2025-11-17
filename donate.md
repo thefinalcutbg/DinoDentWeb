@@ -3,6 +3,7 @@ permalink: /donate/
 title: "Подкрепи DinoDent"
 layout: splash
 ---
+
 <br>
 
 <style>
