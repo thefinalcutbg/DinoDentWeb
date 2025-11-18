@@ -4,7 +4,7 @@ title: "История на версиите"
 layout: splash
 ---
 
-## [2.7.1 (12.11.2025)](https://github.com/thefinalcutbg/DinoDent/releases/tag/2.7.1)
+## [2.7.1 (17.11.2025)](https://github.com/thefinalcutbg/DinoDent/releases/tag/2.7.1)
 
 - HOTFIX - оправен е бъгът от версия 2.7.0, при който при отчитане на зъб със статус Периодонтит, НЗИС връща грешка за невалиден condition.code (докладван от <b>д-р Маня Пенчева</b> и <b>д-р Цветелина Илиева</b>)
 
