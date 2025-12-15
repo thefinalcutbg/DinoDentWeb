@@ -3,9 +3,11 @@ permalink: /privacy_en/
 title: "Privacy Policy"
 layout: splash
 ---
+
 <br>
 
 # DinoDent Privacy Policy
+
 [BG](/privacy_bg/) | EN
 
 ## Introduction
@@ -23,6 +25,7 @@ When you log into your user profile, DinoDent automatically collects the followi
 - Registered location of the dental practice
 - Whether the current user is an administrator of the practice
 - Wether the current user is logged into Google Calendar
+- Wether the current user uses the SMS functionality provided by Mobica.bg
 - Whether the current user has contract with the National Health Insurance Fund (NHIF)
 - Wether the current user has signature tablet configured
 - Contact phone number provided by the current user
@@ -60,6 +63,6 @@ DinoDent reserves the right to update this Privacy Policy as necessary to comply
 
 If you have questions about this policy or your data, please contact us at [dinodentbg@gmail.com](mailto:dinodentbg@gmail.com)
 
-Effective Date: 03.08.2025
+Effective Date: 09.12.2025
 
 By using DinoDent, you agree to this Privacy Policy and to the processing of your data as described. Thank you for choosing DinoDent for your practice management needs.
