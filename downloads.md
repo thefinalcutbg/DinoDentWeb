@@ -39,18 +39,20 @@ layout: splash
 <div class="row">
 
   <div class="column">
-     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/2.9.0/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
+     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/2.9.1/DinoDentSetup.exe"><img src="/assets/images/win.png"></a>
   </div>
   <div class="column">
-    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/2.9.0/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
+    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/2.9.1/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
   </div>
 
 </div>
 
 - [Инструкции за инсталация под Windows](#инструкции-за-инсталация-под-windows)
 
-## Най-последна стабилна версия: 2.9.0 (03.01.2026)
+## Най-последна стабилна версия: 2.9.1 (05.01.2026)
 
+- HOTFIX - оправен е крашът при неуспешен опит за извличане на номер на ЗОК от ПИС (докладван от д-р Сали Салиев)
+- HOTFIX - премахнато е обозначението на валутата в лв. от прозореца за редакция на артикул на финансов документ (докладван от д-р Антон Козаров)
 - Въведена функционалност за изготвяне на лечебен план (по идея и концепция на <b>д-р Божидар Сойтариев</b>)
 - Добавена опция за въвеждане на цени и принтиране на ценоразпис, като цените обслужват само нуждите за фактуриране и изготвяне на лечебни планове
 - Добавена автоматична проверка спрямо дейностите по НЗОК отчетени в НЗИС
