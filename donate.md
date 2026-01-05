@@ -41,6 +41,6 @@ layout: splash
 
 - [<b>PayPal</b>](https://www.paypal.com/donate/?hosted_button_id=J7SDR7Y7BLUKL) - предлага възможност за годишни, месечни или еднократни дарения.
 - [<b>Revolut</b>](https://revolut.me/thefinalcutbg) - само за еднократни дарения.
-- [<b>Allianz Bank Bulgaria</b>]() - банков превод на сметка <u>BG26BUIN95611000083621</u>
+- [<b>Allianz Bank Bulgaria</b>]() - банков превод на сметка <u>BG26BUIN95611000083621</u> Христо Константинов
   <br><br>
   <b>Даренията са изцяло доброволни и дарителите не получават специални привилегии пред другите потребители!</b>
