@@ -5,6 +5,10 @@ layout: splash
 ---
 
 <br>
+<div style="text-align: center;">
+  <img src="/assets/images/rqlite.svg">
+</div>
+<br>
 
 ## Стартиране на сървър чрез rqlite
 
