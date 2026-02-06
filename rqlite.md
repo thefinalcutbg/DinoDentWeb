@@ -49,11 +49,11 @@ IPv4 Address : 192.168.0.110
 
 Стартирате терминала като администратор и изпълнявате една от двете команди:
 
-Вариант 1 – достъп от цялата мрежа:
+Вариант 1 – достъп от цялата мрежа (LAN + Wi-Fi):
 
 **netsh advfirewall firewall add rule name="rqlite HTTP 4001" dir=in action=allow protocol=TCP localport=4001**
 
-Вариант 2 – достъп само от локалната мрежа (по-сигурно):
+Вариант 2 – достъп само от LAN (по-сигурно):
 
 **netsh advfirewall firewall add rule name="rqlite HTTP 4001 LAN" dir=in action=allow protocol=TCP localport=4001 remoteip=192.168.0.0/24 profile=private**
 
