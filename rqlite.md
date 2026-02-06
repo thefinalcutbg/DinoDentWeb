@@ -88,7 +88,7 @@ IPv4 Address : 192.168.0.110
 
 **rqlited.exe -http-addr 0.0.0.0:4001 -http-adv-addr 192.168.0.110:4001 -http-cert server.crt -http-key server.key data**
 
-## 6. Най-висока сигурност (mTLS)
+## 6. HTTPS + mTLS
 
 Препоръчва се, ако решите да хоствате rqlite на уеб сървър. Използвайки криптографска библиотека (напр. [OpenSSL](https://openssl-library.org/){:target="\_blank"}) създавате CA сертификат, сертификат и частен ключ за сървъра и за клиента и ги настройвате. Сървърът се стартира с:
 
