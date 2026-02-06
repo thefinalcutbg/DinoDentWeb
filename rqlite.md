@@ -57,7 +57,7 @@ IPv4 Address : 192.168.0.110
 
 **netsh advfirewall firewall add rule name="rqlite HTTP 4001 LAN" dir=in action=allow protocol=TCP localport=4001 remoteip=192.168.0.0/24 profile=private**
 
-## 2.3 Стартиране на rqlite за LAN
+## 2.3 Стартиране на rqlite
 
 **rqlited.exe -http-addr 0.0.0.0:4001 -http-adv-addr 192.168.0.110:4001 data**
 
