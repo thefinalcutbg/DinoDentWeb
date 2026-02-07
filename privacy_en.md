@@ -64,6 +64,6 @@ DinoDent reserves the right to update this Privacy Policy as necessary to comply
 
 If you have questions about this policy or your data, please contact us at [dinodentbg@gmail.com](mailto:dinodentbg@gmail.com)
 
-Effective Date: 09.12.2025
+Effective Date: 07.02.2026
 
 By using DinoDent, you agree to this Privacy Policy and to the processing of your data as described. Thank you for choosing DinoDent for your practice management needs.
