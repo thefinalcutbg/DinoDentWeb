@@ -29,6 +29,7 @@ When you log into your user profile, DinoDent automatically collects the followi
 - Whether the current user has contract with the National Health Insurance Fund (NHIF)
 - Wether the current user has signature tablet configured
 - Contact phone number provided by the current user
+- Type ot database backend - SQLite or rqlite
 
 ## 2. Third-Party Service Use - Google Calendar
 
