@@ -63,15 +63,11 @@ DinoDent е насочен основно към индивидуални ден
 
 DinoDent поддържа всички модели пен таблети, одобрени от НЗИС. Към момента това са:
 
-- Evolis Sig100 Lite
-- Evolis Sig100
-- Evolis Sig200
-- Evolis Sig Active
-- Signotec Sigma LITE
-- Signotec Sigma
-- Signotec Omega
+- Evolis Sig100 Lite / Signotec Sigma LITE
+- Evolis Sig100 / Signotec Sigma
+- Evolis Sig200 / Signotec Omega
+- Evolis Sig Active / Signotec Gamma
 - Signotec Zeta
-- Signotec Gamma
 - Signotec Delta
 - Wacom STU-43x
 - Wacom STU-53x
