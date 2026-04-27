@@ -73,17 +73,14 @@ IPv4 Address : 192.168.0.110
 ## 4. Добавяне на потребител и парола (препоръчително)
 
 В папката на rqlite създайте файл auth.json със съдържание:
-[
-{
-"users": [
-{
+
+[{
+"users": [{
 "username": "admin",
 "password": "password123",
-"perms": ["query", "execute", "status", "ready"]
-}
-]
-}
-]
+"perms": ["query", "execute", "status", "ready"]}]
+}]
+
 След това стартирате сървъра с добавяне на аргумент -auth auth.json:
 
 **rqlited.exe -http-addr 0.0.0.0:4001 -http-adv-addr 192.168.0.110:4001 -auth auth.json data**
