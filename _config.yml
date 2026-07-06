@@ -16,8 +16,8 @@ minimal_mistakes_skin: "mint" #"default" "air", "aqua", "contrast", "dark", "dir
 
 # Site Settings
 locale: "bg"
-title: ""
-title_separator: ""
+title: "Начало"
+title_separator: " - "
 subtitle: # site tagline that appears below site title in masthead
 name: "д-р Христо Константинов"
 description: "Безплатен дентален софтуер с отворен код за дентални практики в България. Интеграция с НЗИС, ПИС/НЗОК, е-рецепта, календар и подписване с пен таблет."
