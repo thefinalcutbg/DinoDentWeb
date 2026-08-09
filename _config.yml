@@ -20,7 +20,7 @@ title: "Начало"
 title_separator: " - "
 subtitle: # site tagline that appears below site title in masthead
 name: "д-р Христо Константинов"
-description: "Безплатен дентален софтуер с отворен код за дентални практики в България. Интеграция с НЗИС, ПИС/НЗОК, е-рецепта, календар и подписване с пен таблет."
+description: "Безплатен дентален софтуер с отворен код. Интеграция с НЗИС, ПИС/НЗОК, е-рецепта, календар и подписване с пен таблет."
 url: "https://dinodent.bg" # the base hostname & protocol for your site "
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "thefinalcutbg/DinoDentWeb"
