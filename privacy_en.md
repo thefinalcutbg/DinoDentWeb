@@ -18,10 +18,12 @@ DinoDent values the privacy of its users and is committed to protecting personal
 
 When you log into your user profile, DinoDent automatically collects the following data:
 
+- Unique installation identifier (UUID)
 - Current version of the software
 - Current operating system
 - Total number of patients in the database
 - Total number of dental records, periodontal measurements, prescriptions, medical notices, treatment plans and financial documents issued by the current user
+- Number of dental records of the current user registered with the National Health Information System (NHIS)
 - Registered location of the dental practice
 - Whether the current user is an administrator of the practice
 - Wether the current user is logged into Google Calendar
@@ -30,6 +32,9 @@ When you log into your user profile, DinoDent automatically collects the followi
 - Wether the current user has signature tablet configured
 - Contact phone number provided by the current user
 - Type ot database backend - SQLite or rqlite
+- Pseudonymized identifiers of the dental practice and the current dentist, generated using HMAC-SHA256 from the practice's RZI registration code and the dentist's LPK respectively. The original RZI code and LPK are not transmitted
+- Date and time of the most recent login
+- Total number of procedures performed by the current user, as well as the number of procedures registered with NHIS, split between NHIF-funded procedures and procedures with other sources of funding
 
 ## 2. Third-Party Service Use - Google Calendar
 
@@ -64,6 +69,6 @@ DinoDent reserves the right to update this Privacy Policy as necessary to comply
 
 If you have questions about this policy or your data, please contact us at [dinodentbg@gmail.com](mailto:dinodentbg@gmail.com)
 
-Effective Date: 07.02.2026
+Effective Date: 19.09.2026
 
 By using DinoDent, you agree to this Privacy Policy and to the processing of your data as described. Thank you for choosing DinoDent for your practice management needs.
