@@ -29,7 +29,7 @@ When you log into your user profile, DinoDent automatically collects the followi
 - Wether the current user is logged into Google Calendar
 - Wether the current user uses the SMS functionality provided by Mobica.bg
 - Whether the current user has contract with the National Health Insurance Fund (NHIF)
-- Wether the current user has signature tablet configured
+- Wether the current user has signature tablet configured and, if so, which model is used
 - Contact phone number provided by the current user
 - Type ot database backend - SQLite or rqlite
 - Pseudonymized identifiers of the dental practice and the current dentist, generated using HMAC-SHA256 from the practice's RZI registration code and the dentist's LPK respectively. The original RZI code and LPK are not transmitted
