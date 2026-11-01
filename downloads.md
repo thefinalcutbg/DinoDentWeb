@@ -49,7 +49,7 @@ layout: splash
     <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/2.16.0/dinodent-macos.dmg"><img src="/assets/images/mac.png"></a>
   </div>
   <div class="column">
-    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/2.15.0/DinoDent-x86_64.AppImage"><img src="/assets/images/linux.png"></a>
+    <a href="https://github.com/thefinalcutbg/DinoDent/releases/download/2.16.0/DinoDent-x86_64.AppImage"><img src="/assets/images/linux.png"></a>
   </div>
 
 </div>
