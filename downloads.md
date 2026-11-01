@@ -13,26 +13,30 @@ layout: splash
 #toc: true
 ---
 
+
 <style>
 * {
   box-sizing: border-box;
 }
 
+.row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 .column {
-  float: left;
   width: 25%;
   padding: 20px;
   text-align: center;
 }
 
-/* Clearfix (clear floats) */
-.row::after {
-  float: center;
-  content: "";
-  clear: both;
-  display: table;
+.column img {
+  max-width: 100%;
+  height: auto;
 }
 </style>
+
 
 ## Изберете операционна система:
 
